@@ -1,0 +1,13 @@
+Public static void main args[]{
+while (true){
+Scanner teclado = New Scanner(System.in);
+System.out.println("Ingrese un numero");
+int a;
+a = teclado.nextInt();
+if(a!=0){
+System.out.println("Muerte a c++");
+}else{
+System.out.println("Aguante JAVA");
+}
+}
+}
